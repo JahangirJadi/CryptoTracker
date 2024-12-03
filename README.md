@@ -1,6 +1,5 @@
-## The App is under development
 
-# SnoozeLoo
+# Crypto Tracker
 
 Crypto Tracker is an app which shows list of crypto currencies and their market cap. The app utilizes modern Android technologies, including Jetpack Compose, MVI Architecture, Room, and Koin. 
 ## App Features
