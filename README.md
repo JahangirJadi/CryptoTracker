@@ -16,8 +16,8 @@ Crypto Tracker is an app which shows list of crypto currencies and their market 
      <th>Coin Details Screen</th>
   </tr>
     <tr>
-      <td><img src="https://github.com/JahangirJadi/CryptoTracker/tree/master/screenshots/ss_1.jpg" width="250px"</td>
-      <td><img src="https://github.com/JahangirJadi/CryptoTracker/tree/master/screenshots/ss_2.jpg" width="250px"</td>
+      <td><img src="https://github.com/JahangirJadi/CryptoTracker/tree/master/screenshots/ss_1.jpeg" width="250px"</td>
+      <td><img src="https://github.com/JahangirJadi/CryptoTracker/tree/master/screenshots/ss_2.jpeg" width="250px"</td>
   </tr>
 
   <tr>
@@ -25,7 +25,7 @@ Crypto Tracker is an app which shows list of crypto currencies and their market 
     
   </tr>
     <tr>
-      <td><img src="https://github.com/JahangirJadi/CryptoTracker/tree/master/screenshots/ss_3.jpg" width="600px"</td>
+      <td><img src="https://github.com/JahangirJadi/CryptoTracker/tree/master/screenshots/ss_3.jpeg" width="600px"</td>
   
   </tr>
 
