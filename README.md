@@ -20,6 +20,12 @@ Crypto Tracker is an app which shows list of crypto currencies and their market 
       <td><img src="https://github.com/JahangirJadi/CryptoTracker/blob/master/screenshots/ss_2.jpeg" width="250px" alt="Coin Details"></td>
   </tr>
 
+
+
+</table>
+
+<table>
+  
   <tr>
      <th>Coin List Screen (Landscape)</th>
     
