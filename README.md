@@ -1,7 +1,7 @@
 
 # Crypto Tracker
 
-Crypto Tracker is an app which shows list of crypto currencies and their market cap. The app utilizes modern Android technologies, including Jetpack Compose, MVI Architecture, Room, and Koin. 
+Crypto Tracker is an app which shows list of crypto currencies and their market cap. The app utilizes modern Android technologies, including Jetpack Compose, MVI Architecture, and Koin. 
 ## App Features
 1. Dependency Injection with Koin.
 2. UI adjusts with almost every screen size.
